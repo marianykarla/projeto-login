@@ -12,14 +12,14 @@
 
     section#login div#imagem {
         float: left;
-        width: 30%;
+        width: 35%;
         height: 100%;
         background-position:  center;
     }
 
     section#login div#formulario {
         float: right;
-        width: 70%;
+        width: 65%;
     }
 
     div#formulario > h1 {
